@@ -1,10 +1,16 @@
 # Power-feasibility-nexus
-Code accompanying the article 'Food-web architecture governs when predator advantage supports collective persistence'
+The Jupyterlab notebook accompanies the article 'Food-web architecture governs when predator advantage supports collective persistence'
 
-The code is cotained in a single Python Jupyter notebook.
+Running the code requires the following packages and dependencies, which were installed from conda-forge package manager: 
+numpy 2.4.3 
+scipy 1.17.1 
+sympy 1.14.0
+matplotlib 3.10.9, matplotlib-base 3.10.9, matplotlib-inline 0.2.1
+networkx 3.6.1
 
-Please include the following packages to run the code: 
-numpy, scipy, matplotlib, sympy, itertools 
+To recreate the visualizations in the notebook, the following additional packages are required: 
+cycler 0.12.1 
+sympy_plot_backends 4.1.2 
+ipympl 0.10.0 
 
-To recreate the figures in the article, the following additional packages are required:
-spb, cycler
+No new data is needed to reproduce the results.
