@@ -1,5 +1,5 @@
 # Power-feasibility-nexus
-The Jupyterlab notebook accompanies the article 'Food-web architecture governs when predator advantage supports collective persistence'
+The Jupyterlab notebook accompanies the article 'Food-web architecture governs when predator advantage supports community feasibility
 
 
 Running the code requires the following packages and dependencies, which were installed from conda-forge package manager: 
